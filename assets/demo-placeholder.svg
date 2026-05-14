@@ -1,0 +1,17 @@
+<svg width="1120" height="520" viewBox="0 0 1120 520" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1120" height="520" rx="8" fill="#020617"/>
+  <rect x="28" y="28" width="1064" height="464" rx="8" fill="#0F172A" stroke="#1E293B"/>
+  <rect x="64" y="70" width="250" height="92" rx="8" fill="#020617" stroke="#334155"/>
+  <text x="88" y="112" fill="#E2E8F0" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="700">Analyzed set</text>
+  <text x="88" y="140" fill="#94A3B8" font-family="Inter, Arial, sans-serif" font-size="16">demo GIF placeholder</text>
+  <path d="M240 405C325 327 394 353 470 302C547 250 585 134 675 155C764 176 790 309 885 228" stroke="#22D3EE" stroke-width="5" stroke-linecap="round"/>
+  <path d="M240 405C325 327 394 353 470 302C547 250 585 134 675 155C764 176 790 309 885 228" stroke="#4ADE80" stroke-width="16" stroke-linecap="round" stroke-opacity="0.15"/>
+  <circle cx="885" cy="228" r="16" fill="#4ADE80"/>
+  <rect x="750" y="68" width="278" height="128" rx="8" fill="#020617" stroke="#334155"/>
+  <text x="778" y="108" fill="#94A3B8" font-family="Inter, Arial, sans-serif" font-size="15">REPS</text>
+  <text x="910" y="108" fill="#4ADE80" font-family="Inter, Arial, sans-serif" font-size="24" font-weight="800">5</text>
+  <text x="778" y="146" fill="#94A3B8" font-family="Inter, Arial, sans-serif" font-size="15">VELOCITY</text>
+  <text x="910" y="146" fill="#4ADE80" font-family="Inter, Arial, sans-serif" font-size="24" font-weight="800">318 px/s</text>
+  <text x="778" y="184" fill="#94A3B8" font-family="Inter, Arial, sans-serif" font-size="15">ROM</text>
+  <text x="910" y="184" fill="#4ADE80" font-family="Inter, Arial, sans-serif" font-size="24" font-weight="800">412 px</text>
+</svg>
