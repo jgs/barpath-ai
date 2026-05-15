@@ -20,15 +20,20 @@
 
 ## Demo
 
-> Drop your lifting clip into the app and export a trajectory overlay.
+Drop your lifting clip into the app, choose the lift preset and export a trajectory overlay.
 
-| Input Lift | Bar Path Overlay | Metrics |
-| --- | --- | --- |
-| `assets/demo/input.gif` | `assets/demo/barpath-overlay.gif` | reps, velocity, ROM |
+<table>
+  <tr>
+    <td align="center"><strong>Squat</strong></td>
+    <td align="center"><strong>Deadlift</strong></td>
+  </tr>
+  <tr>
+    <td><img src="assets/demo/squat-demo.gif" width="360" alt="Squat bar path analysis demo"></td>
+    <td><img src="assets/demo/deadlift-demo.gif" width="360" alt="Deadlift plate tracking analysis demo"></td>
+  </tr>
+</table>
 
-<p align="center">
-  <img src="assets/demo-placeholder.svg" width="86%" alt="Demo placeholder">
-</p>
+> Bench press support is available through the bench preset and is being tuned for more difficult camera angles.
 
 ## What It Does
 
@@ -71,7 +76,7 @@ app/
 ## Installation
 
 ```bash
-git clone https://github.com/your-org/barpath-ai.git
+git clone https://github.com/jgs/barpath-ai.git
 cd barpath-ai
 python -m venv .venv
 .venv\Scripts\activate
